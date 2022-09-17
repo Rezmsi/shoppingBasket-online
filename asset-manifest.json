@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoppingBasket-online/static/css/main.eb0fcf05.css",
+    "main.js": "/shoppingBasket-online/static/js/main.c98ab51a.js",
+    "index.html": "/shoppingBasket-online/index.html",
+    "main.eb0fcf05.css.map": "/shoppingBasket-online/static/css/main.eb0fcf05.css.map",
+    "main.c98ab51a.js.map": "/shoppingBasket-online/static/js/main.c98ab51a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0fcf05.css",
+    "static/js/main.c98ab51a.js"
+  ]
+}
